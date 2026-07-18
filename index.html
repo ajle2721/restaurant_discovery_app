@@ -8,17 +8,17 @@
     <meta property="og:title" content="帶小孩吃什麼？台北親子友善餐廳搜尋">
     <meta property="og:description" content="帶小孩吃什麼？看看你附近適合帶小孩的餐廳">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="site-icon-v5.png">
-    <link rel="apple-touch-icon" href="site-icon-v5.png">
-    <link rel="icon" type="image/png" href="site-icon-v5.png">
+    <meta property="og:image" content="%BASE_URL%site-icon-v5.png">
+    <link rel="apple-touch-icon" href="%BASE_URL%site-icon-v5.png">
+    <link rel="icon" type="image/png" href="%BASE_URL%site-icon-v5.png">
     <meta name="apple-mobile-web-app-title" content="帶小孩吃什麼？">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800;900&family=M+PLUS+Rounded+1c:wght@700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=20260630000100">
-    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="/src/styles/main.css">
+    <link rel="manifest" href="%BASE_URL%manifest.json">
     <!-- Leaflet Map Library -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -235,9 +235,9 @@
             </div>
         </div>
         <nav class="home-feedback-links" aria-label="協助更新與回饋">
-            <a id="home-contribute-restaurant" href="#" data-home-feedback-action="contribute" onclick="event.preventDefault(); openContributionModal();">貢獻親子友善餐廳</a>
+            <a id="home-contribute-restaurant" href="#" data-home-feedback-action="contribute">貢獻親子友善餐廳</a>
             <span aria-hidden="true">·</span>
-            <a id="home-site-feedback" href="#" data-home-feedback-action="site-feedback" onclick="event.preventDefault(); openSiteFeedbackModal();">提供使用回饋</a>
+            <a id="home-site-feedback" href="#" data-home-feedback-action="site-feedback">提供使用回饋</a>
         </nav>
     </div>
 
@@ -438,7 +438,7 @@
     <div id="pwa-install-prompt" class="pwa-prompt hidden">
         <div class="pwa-prompt-content">
             <div class="pwa-prompt-icon">
-                <img src="site-icon-v5.png" alt="App Icon">
+                <img src="%BASE_URL%site-icon-v5.png" alt="App Icon">
             </div>
             <div class="pwa-prompt-text-wrapper">
                 <div class="pwa-prompt-title">將「帶小孩吃什麼」加入主畫面</div>
@@ -462,11 +462,7 @@
         </div>
     </div>
 
-    <!-- Data and App Logic -->
-    <script src="locations.js"></script>
-    <script src="ai_review/index.js?v=20260629134500"></script>
-    <script src="app.js?v=20260629124500"></script>
+    <script type="module" src="/src/main.js"></script>
 </body>
 
 </html>
-

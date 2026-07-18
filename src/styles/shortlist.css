@@ -1,0 +1,843 @@
+/* Shortlist FAB (Floating Action Button) */
+.shortlist-fab {
+    right: 1.25rem; /* Align to the bottom right, no longer shifted by the obsolete share button */
+    bottom: 1.5rem; /* Move slightly lower to avoid blocking card content */
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary-light);
+    box-shadow: 0 4px 15px rgba(255, 126, 103, 0.35);
+}
+
+.shortlist-fab:hover {
+    background: var(--primary-light);
+    color: white;
+    box-shadow: 0 6px 20px rgba(255, 126, 103, 0.5);
+    border-color: var(--primary);
+}
+
+.shortlist-fab .badge {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background: var(--accent);
+    color: var(--text-main);
+    font-size: 0.7rem;
+    font-weight: 800;
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Card Favorite Button */
+.restaurant-card {
+    position: relative; /* Make absolute child work */
+}
+
+.card-favorite-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.05rem;
+    cursor: pointer;
+    transition: var(--transition);
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.card-favorite-btn:hover {
+    transform: scale(1.1);
+    background: white;
+    box-shadow: 0 4px 12px rgba(255, 126, 103, 0.2);
+    color: var(--primary);
+}
+
+.card-favorite-btn.active {
+    background: rgba(255, 255, 255, 0.95);
+    border-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Card Map Centering Shortcut Pin Button */
+.card-map-btn {
+    position: absolute;
+    top: 1rem;
+    right: 3.75rem; /* Left of the favorite heart button with a clean 0.5rem gap */
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition);
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.card-map-btn:hover {
+    transform: scale(1.1);
+    background: white;
+    box-shadow: 0 4px 12px rgba(79, 179, 170, 0.2); /* Beautiful turquoise shadow glow matching marker hover */
+    color: var(--secondary); /* Brand turquoise color */
+}
+
+.card-map-btn svg {
+    display: block;
+    transition: var(--transition);
+}
+
+
+/* Shortlist Drawer Styles */
+.drawer-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(15, 23, 42, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: 2020;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.drawer-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.drawer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 75vh;
+    max-height: 650px;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border-radius: 2rem 2rem 0 0;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
+    z-index: 2021;
+    display: flex;
+    flex-direction: column;
+    transform: translateY(100%);
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), height 0.4s cubic-bezier(0.16, 1, 0.3, 1), max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+.drawer.active {
+    transform: translateY(0);
+}
+
+.drawer-drag-handle {
+    width: 40px;
+    height: 5px;
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+    margin: 10px auto 2px;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: background 0.3s;
+}
+
+.drawer-drag-handle:hover {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 767px) {
+    .drawer.full-height {
+        height: 95vh !important;
+        max-height: 95vh !important;
+    }
+}
+
+.drawer-header {
+    padding: 1.5rem 1.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.drawer-title-area {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+}
+
+.drawer-title {
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--text-main);
+    white-space: nowrap;
+}
+
+.drawer-icon {
+    font-size: 1.4rem;
+}
+
+.drawer-header .badge {
+    background: var(--primary);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 800;
+    padding: 0.15rem 0.5rem;
+    border-radius: 1rem;
+}
+
+.drawer-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-left: auto;
+    flex-wrap: nowrap;
+}
+
+.btn-clear-all {
+    background: rgba(239, 68, 68, 0.08);
+    color: #ef4444;
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    padding: 0.4rem 0.8rem;
+    border-radius: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    line-height: 1;
+    white-space: nowrap;
+}
+
+@media (hover: hover) {
+    .btn-clear-all:hover {
+        background: #ef4444;
+        color: white;
+        border-color: #ef4444;
+    }
+}
+
+.btn-share-list {
+    background: rgba(2, 132, 199, 0.08);
+    color: #0284c7;
+    border: 1px solid rgba(2, 132, 199, 0.2);
+    padding: 0.4rem 0.8rem;
+    border-radius: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    line-height: 1;
+    white-space: nowrap;
+}
+
+@media (hover: hover) {
+    .btn-share-list:hover {
+        background: #0284c7;
+        color: white;
+        border-color: #0284c7;
+    }
+}
+
+.btn-expand-comparison {
+    width: 34px;
+    height: 34px;
+    border: 1px solid rgba(2, 132, 199, 0.2);
+    border-radius: 0.75rem;
+    background: rgba(2, 132, 199, 0.08);
+    color: #0284c7;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: var(--transition);
+    flex-shrink: 0;
+}
+
+@media (hover: hover) {
+    .btn-expand-comparison:hover {
+        background: #0284c7;
+        color: white;
+        border-color: #0284c7;
+    }
+}
+
+.close-btn {
+    background: #f1f5f9;
+    border: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    color: var(--text-muted);
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.close-btn:hover {
+    background: #e2e8f0;
+    color: var(--text-main);
+}
+
+/* Tabs */
+.drawer-tabs {
+    display: flex;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 4px;
+    margin: 0.5rem 1.5rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.drawer-tab {
+    flex: 1;
+    border: none;
+    background: transparent;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+}
+
+.drawer-tab.active {
+    background: white;
+    color: var(--primary);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Drawer Body & Views */
+.drawer-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0 1.5rem 1.5rem;
+    min-height: 0; /* Important for scrollable flex items */
+}
+
+.drawer-view {
+    display: none;
+    height: 100%;
+}
+
+.drawer-view.active {
+    display: block;
+    animation: fadeIn 0.3s ease;
+}
+
+.shortlist-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding-top: 0.5rem;
+}
+
+.shortlist-card {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 1.25rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: var(--shadow);
+    transition: var(--transition);
+}
+
+.shortlist-card:hover {
+    border-color: var(--primary-light);
+    transform: translateY(-1px);
+}
+
+.shortlist-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.shortlist-name-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.shortlist-name {
+    font-weight: 700;
+    color: var(--text-main);
+    font-size: 0.95rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.shortlist-summary {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 0.25rem;
+}
+
+.shortlist-amenities {
+    font-size: 0.75rem;
+    color: var(--secondary);
+    font-weight: 600;
+}
+
+.shortlist-del-btn {
+    background: transparent;
+    border: none;
+    color: #cbd5e1;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    transition: var(--transition);
+}
+
+.shortlist-del-btn:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.05);
+}
+
+/* Comparison Table Layout */
+.comparison-table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 1.25rem;
+    background: white;
+    box-shadow: var(--shadow);
+    margin-top: 0.5rem;
+}
+
+.comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.comparison-table th, .comparison-table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    white-space: nowrap;
+}
+
+.comparison-table th {
+    background: #f8fafc;
+    color: var(--text-muted);
+    font-weight: 800;
+}
+
+/* Sticky first column for restaurant name on mobile */
+.comparison-table th:first-child, .comparison-table td:first-child {
+    position: sticky;
+    left: 0;
+    background: white;
+    z-index: 2;
+    text-align: left;
+    font-weight: 700;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.03);
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+    white-space: normal; /* Ensure the cell text can wrap instead of overflowing */
+}
+
+.comparison-table th:first-child {
+    background: #f8fafc;
+}
+
+.comparison-table tr:hover td {
+    background: #fafafa;
+}
+
+.comparison-table td .check-icon {
+    color: #10b981;
+    font-weight: 800;
+    font-size: 0.9rem;
+}
+
+.comparison-table td .check-icon.likely-icon {
+    color: #10b981;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px dashed #10b981;
+    padding: 0.1rem 0.3rem;
+    border-radius: 4px;
+    background: rgba(16, 185, 129, 0.05);
+    cursor: help;
+}
+
+.comparison-table td .cross-icon {
+    color: #ef4444;
+    font-weight: 800;
+    font-size: 0.9rem;
+}
+
+.comparison-table td .unknown-icon {
+    color: #94a3b8;
+    font-size: 0.8rem;
+}
+
+.comparison-table-name-cell {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    max-width: 180px;
+    min-width: 120px;
+    white-space: normal;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+.comparison-table-name-cell a {
+    color: var(--text-main);
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.comparison-table-name-cell a:hover {
+    color: var(--primary);
+}
+
+.comparison-table-del {
+    color: #cbd5e1;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    transition: var(--transition);
+}
+
+.comparison-table-del:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.05);
+}
+
+.comparison-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.48);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    z-index: 3050;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.25s ease;
+}
+
+.comparison-modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.comparison-modal {
+    position: fixed;
+    top: 4vh;
+    left: 50%;
+    width: min(1180px, calc(100vw - 48px));
+    height: 88vh;
+    background: rgba(255, 255, 255, 0.96);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 1.5rem;
+    box-shadow: 0 24px 80px rgba(15, 23, 42, 0.24);
+    z-index: 3051;
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-50%) scale(0.96);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    overflow: hidden;
+}
+
+.comparison-modal.active {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) scale(1);
+}
+
+.comparison-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    flex-shrink: 0;
+}
+
+.comparison-modal-kicker {
+    color: var(--primary);
+    font-size: 0.78rem;
+    font-weight: 800;
+    margin-bottom: 0.1rem;
+}
+
+.comparison-modal-header h2 {
+    color: var(--text-main);
+    font-size: 1.35rem;
+    font-weight: 900;
+    line-height: 1.2;
+}
+
+.comparison-modal-body {
+    flex: 1;
+    min-height: 0;
+    padding: 1rem 1.5rem 1.5rem;
+    overflow: hidden;
+}
+
+.comparison-modal-body .comparison-table-wrapper {
+    height: 100%;
+    margin-top: 0;
+    overflow: auto;
+    border-radius: 1rem;
+    box-shadow: none;
+}
+
+.comparison-modal-body .comparison-table {
+    min-width: 980px;
+    font-size: 0.86rem;
+}
+
+.comparison-modal-body .comparison-table th,
+.comparison-modal-body .comparison-table td {
+    padding: 0.85rem 1rem;
+}
+
+.comparison-modal-body .comparison-table-name-cell {
+    max-width: 240px;
+    min-width: 180px;
+}
+
+@media (max-width: 767px) {
+    .btn-expand-comparison,
+    .comparison-modal,
+    .comparison-modal-overlay {
+        display: none !important;
+    }
+}
+
+/* Empty drawer state */
+.drawer-empty-state {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--text-muted);
+}
+
+.drawer-empty-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.drawer-empty-state h3 {
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 0.5rem;
+}
+
+.drawer-empty-state p {
+    font-size: 0.85rem;
+}
+
+/* Desktop drawer optimization */
+@media (min-width: 768px) {
+    .drawer {
+        width: 450px;
+        left: auto;
+        right: 1.5rem;
+        bottom: 1.5rem;
+        height: 600px;
+        max-height: none;
+        border-radius: 2rem;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        transform: translateY(120%);
+    }
+
+    .drawer.active {
+        transform: translateY(0);
+    }
+
+    .drawer-header {
+        align-items: flex-start;
+    }
+
+    .drawer-title-area {
+        flex: 1 1 150px;
+    }
+
+    .drawer-actions {
+        flex: 1 0 100%;
+        justify-content: flex-end;
+    }
+}
+
+/* Mobile-responsive Drawer Header and Layout Optimizations */
+@media (max-width: 480px) {
+    .drawer-header {
+        position: relative;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.85rem;
+        padding: 1.25rem 1.25rem 1rem;
+    }
+    
+    .drawer-actions {
+        width: 100%;
+        justify-content: flex-start;
+        gap: 0.6rem;
+        padding-right: 2.5rem; /* Safe space to prevent collision with absolute close button */
+        box-sizing: border-box;
+    }
+
+    .drawer-actions .close-btn {
+        position: absolute;
+        top: 1.25rem;
+        right: 1.25rem;
+        margin: 0;
+    }
+}
+
+/* Mobile landscape optimization for Shortlist Drawer & Comparative Table */
+@media (max-height: 520px) {
+    .drawer {
+        height: 92vh !important; /* Make drawer significantly taller on landscape viewports */
+        max-height: 100vh !important;
+        width: 100vw !important; /* Force full width on mobile landscape viewports */
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        margin: 0 !important;
+        border-radius: 2rem 2rem 0 0 !important; /* Rounded only at the top */
+    }
+    
+    .drawer-header {
+        padding: 0.6rem 1rem 0.4rem !important; /* Extremely tight headers */
+        flex-direction: row !important; /* Restore row layout in landscape for wide screens */
+        align-items: center !important;
+        gap: 1rem !important;
+    }
+    
+    .drawer-header .drawer-title-area {
+        gap: 0.35rem !important;
+    }
+    
+    .drawer-header .drawer-title {
+        font-size: 1.1rem !important;
+    }
+    
+    .drawer-header .drawer-icon {
+        font-size: 1.2rem !important;
+    }
+    
+    .drawer-actions {
+        width: auto !important; /* Overrule 100% on narrow mobile width */
+        padding-right: 0 !important;
+        margin: 0 !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 0.5rem !important;
+    }
+    
+    .drawer-actions .close-btn {
+        position: static !important; /* Put close button inline on landscape */
+        width: 28px !important;
+        height: 28px !important;
+        font-size: 1.2rem !important;
+    }
+    
+    .btn-share-list, .btn-clear-all {
+        padding: 0.3rem 0.6rem !important; /* Tighter padding for landscape headers */
+        font-size: 0.7rem !important;
+    }
+    
+    .drawer-tabs {
+        margin: 0.25rem 1rem !important; /* Tighter tab margins */
+        padding: 2px !important;
+    }
+    
+    .drawer-tab {
+        padding: 0.35rem !important;
+        font-size: 0.8rem !important;
+    }
+    
+    .drawer-body {
+        padding: 0 1rem 0.75rem !important;
+    }
+    
+    .comparison-table-wrapper {
+        margin-top: 0.25rem !important;
+    }
+    
+    .comparison-table th, .comparison-table td {
+        padding: 0.5rem 0.75rem !important; /* Tighter comparison table padding */
+    }
+}
+
+
+
+.comparison-mobile-tip {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    color: #1e40af;
+    padding: 0.6rem 0.8rem;
+    border-radius: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.comparison-mobile-tip .tip-icon {
+    font-size: 0.9rem;
+    flex-shrink: 0;
+}
+
