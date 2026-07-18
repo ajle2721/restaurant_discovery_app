@@ -38,26 +38,25 @@ import { state } from "./state/app-state.js";
 import { safeSession } from "./state/storage.js";
 
 const {
-    closeFeedbackModal,
-    closeSiteFeedbackModal,
-    handleFeedbackSubmit,
-    handleHomeFeedbackLinkClick,
-    handleSiteFeedbackSubmit,
     openFeedbackModal,
-    openSiteFeedbackModal,
+    setupFeedbackEvents,
     submitAiFeedback,
 } = createFeedbackController({ getLocationContext, showToast });
 
 const {
-    closeComparisonModal,
     loadFavorites,
-    openComparisonModal,
     renderShortlistDrawer,
     saveFavorites,
-    syncComparisonExpandButton,
+    setupShortlistEvents,
     toggleFavorite,
     updateShortlistUI,
-} = createShortlistController({ getDynamicStatus, showToast, updateUrl });
+} = createShortlistController({
+    copyToClipboard,
+    getDynamicStatus,
+    getLocationContext,
+    showToast,
+    updateUrl,
+});
 
 const {
     initMap,
@@ -334,7 +333,6 @@ const detailContent = document.getElementById('detail-content');
 const backHomeBtn = document.getElementById('back-home');
 const floatShareBtn = document.getElementById('float-share');
 const detailShareBtn = document.getElementById('share-detail');
-const shareShortlistBtn = document.getElementById('btn-share-shortlist');
 const toast = document.getElementById('toast');
 const searchInput = document.getElementById('location-search');
 const autocompleteDropdown = document.getElementById('search-autocomplete');
@@ -1022,206 +1020,7 @@ function setupEventListeners() {
         });
     });
 
-    // Shortlist Floating Button and Drawer Trigger
-    const floatShortlistBtn = document.getElementById('float-shortlist');
-    const closeShortlistDrawerBtn = document.getElementById('close-shortlist-drawer');
-    const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
-    const shortlistDrawer = document.getElementById('shortlist-drawer');
-    const tabList = document.getElementById('tab-list');
-    const tabCompare = document.getElementById('tab-compare');
-    const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
-    const expandComparisonBtn = document.getElementById('btn-expand-comparison');
-    const comparisonModalOverlay = document.getElementById('comparison-modal-overlay');
-    const closeComparisonModalBtn = document.getElementById('close-comparison-modal');
-
-    if (floatShortlistBtn) {
-        floatShortlistBtn.addEventListener('click', () => {
-            shortlistDrawer.classList.add('active');
-            shortlistDrawerOverlay.classList.add('active');
-            renderShortlistDrawer();
-            syncComparisonExpandButton();
-        });
-    }
-
-    if (closeShortlistDrawerBtn) {
-        closeShortlistDrawerBtn.addEventListener('click', () => {
-            shortlistDrawer.classList.remove('active');
-            shortlistDrawerOverlay.classList.remove('active');
-            shortlistDrawer.classList.remove('full-height');
-            closeComparisonModal();
-        });
-    }
-
-    if (shortlistDrawerOverlay) {
-        shortlistDrawerOverlay.addEventListener('click', () => {
-            shortlistDrawer.classList.remove('active');
-            shortlistDrawerOverlay.classList.remove('active');
-            shortlistDrawer.classList.remove('full-height');
-            closeComparisonModal();
-        });
-    }
-
-    // Touch Swiping / Tap Gestures for Drawer Height on Mobile
-    const dragHandle = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-drag-handle') : null;
-    const drawerHeader = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-header') : null;
-
-    let startY = 0;
-    let currentY = 0;
-    let isDragging = false;
-
-    const handleTouchStart = (e) => {
-        // If the user touched a button or interactive element inside the header, ignore dragging
-        if (e.target.closest('button') || e.target.closest('.drawer-actions')) {
-            isDragging = false;
-            return;
-        }
-        startY = e.touches[0].clientY;
-        currentY = startY; // Reset currentY to startY to prevent stale values from previous gestures
-        isDragging = true;
-    };
-
-    const handleTouchMove = (e) => {
-        if (!isDragging) return;
-        currentY = e.touches[0].clientY;
-    };
-
-    const handleTouchEnd = () => {
-        if (!isDragging) return;
-        isDragging = false;
-        const diffY = startY - currentY; // Swipe up is positive
-
-        if (diffY > 60) {
-            // Swipe UP -> expand to full-height
-            shortlistDrawer.classList.add('full-height');
-        } else if (diffY < -60) {
-            // Swipe DOWN -> contract to regular height or close
-            if (shortlistDrawer.classList.contains('full-height')) {
-                shortlistDrawer.classList.remove('full-height');
-            } else {
-                shortlistDrawer.classList.remove('active');
-                shortlistDrawerOverlay.classList.remove('active');
-            }
-        }
-    };
-
-    if (dragHandle) {
-        dragHandle.addEventListener('touchstart', handleTouchStart, { passive: true });
-        dragHandle.addEventListener('touchmove', handleTouchMove, { passive: true });
-        dragHandle.addEventListener('touchend', handleTouchEnd);
-        dragHandle.addEventListener('click', () => {
-            shortlistDrawer.classList.toggle('full-height');
-        });
-    }
-
-    if (drawerHeader) {
-        drawerHeader.addEventListener('touchstart', handleTouchStart, { passive: true });
-        drawerHeader.addEventListener('touchmove', handleTouchMove, { passive: true });
-        drawerHeader.addEventListener('touchend', handleTouchEnd);
-    }
-
-    if (tabList && tabCompare) {
-        tabList.addEventListener('click', () => {
-            tabList.classList.add('active');
-            tabCompare.classList.remove('active');
-            document.getElementById('shortlist-list-view').classList.add('active');
-            document.getElementById('shortlist-compare-view').classList.remove('active');
-            renderShortlistDrawer();
-            syncComparisonExpandButton();
-        });
-
-        tabCompare.addEventListener('click', () => {
-            tabCompare.classList.add('active');
-            tabList.classList.remove('active');
-            document.getElementById('shortlist-compare-view').classList.add('active');
-            document.getElementById('shortlist-list-view').classList.remove('active');
-            trackEvent('view_shortlist_compare', {
-                shortlist_count: state.favorites.size
-            });
-            renderShortlistDrawer();
-            syncComparisonExpandButton();
-        });
-    }
-
-    if (expandComparisonBtn) {
-        expandComparisonBtn.addEventListener('click', openComparisonModal);
-    }
-
-    if (comparisonModalOverlay) {
-        comparisonModalOverlay.addEventListener('click', closeComparisonModal);
-    }
-
-    if (closeComparisonModalBtn) {
-        closeComparisonModalBtn.addEventListener('click', closeComparisonModal);
-    }
-
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') closeComparisonModal();
-    });
-
-    window.addEventListener('resize', syncComparisonExpandButton);
-
-    if (clearShortlistBtn) {
-        clearShortlistBtn.addEventListener('click', () => {
-            if (confirm('確定要清空口袋名單中的所有餐廳嗎？')) {
-                state.favorites.clear();
-                saveFavorites();
-                updateShortlistUI();
-                renderShortlistDrawer();
-                // Also update any visible card favorite states
-                document.querySelectorAll('.card-favorite-btn').forEach(btn => {
-                    btn.classList.remove('active');
-                    btn.innerHTML = '🤍';
-                });
-                const detailFavBtn = document.getElementById('btn-detail-fav');
-                if (detailFavBtn) {
-                    detailFavBtn.classList.remove('active');
-                    detailFavBtn.innerHTML = '🤍';
-                }
-                showToast('已清空口袋名單');
-                updateUrl();
-            }
-        });
-    }
-
-    if (shareShortlistBtn) {
-        shareShortlistBtn.addEventListener('click', () => {
-            if (state.favorites.size === 0) return;
-            const favIds = Array.from(state.favorites).join(',');
-            const shareUrl = new URL(window.location.href.split('?')[0]);
-            shareUrl.searchParams.set('favs', favIds);
-            
-            const shareText = `這是我精選的台北親子友善餐廳口袋名單，分享給你！`;
-            const fullContent = `${shareText}\n${shareUrl.toString()}`;
-            trackEvent('share_shortlist', {
-                shortlist_count: state.favorites.size,
-                location_context: getLocationContext()
-            });
-            
-            if (navigator.share) {
-                navigator.share({
-                    title: '我的台北親子餐廳口袋名單',
-                    text: shareText,
-                    url: shareUrl.toString()
-                }).catch(err => {
-                    if (err.name !== 'AbortError') {
-                        copyToClipboard(fullContent, true);
-                        showToast('考慮清單連結已複製，快分享給好友吧！');
-                    }
-                });
-            } else {
-                copyToClipboard(fullContent, true);
-                showToast('考慮清單連結已複製，快分享給好友吧！');
-            }
-        });
-    }
-
-    // Dynamic re-render on resize/orientationchange to toggle between portrait transposed table and landscape standard table
-    window.addEventListener('resize', () => {
-        const shortlistDrawer = document.getElementById('shortlist-drawer');
-        if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
-            renderShortlistDrawer();
-        }
-    });
+    setupShortlistEvents();
 
     // popstate listener for back/forward browser buttons
     window.addEventListener('popstate', (e) => {
@@ -1276,110 +1075,7 @@ function setupEventListeners() {
         });
     }
 
-    // Feedback Modal Close & Cancel Actions
-    const closeFeedbackBtn = document.getElementById('close-feedback-modal');
-    if (closeFeedbackBtn) {
-        closeFeedbackBtn.addEventListener('click', closeFeedbackModal);
-    }
-    
-    const cancelFeedbackBtn = document.getElementById('btn-cancel-feedback');
-    if (cancelFeedbackBtn) {
-        cancelFeedbackBtn.addEventListener('click', closeFeedbackModal);
-    }
-    
-    const feedbackOverlay = document.getElementById('feedback-modal-overlay');
-    if (feedbackOverlay) {
-        feedbackOverlay.addEventListener('click', closeFeedbackModal);
-    }
-    
-    // Feedback Form Submit Action
-    const feedbackForm = document.getElementById('feedback-form');
-    if (feedbackForm) {
-        feedbackForm.addEventListener('submit', handleFeedbackSubmit);
-    }
-
-    const siteFeedbackBtn = document.getElementById('float-site-feedback');
-    if (siteFeedbackBtn) {
-        siteFeedbackBtn.addEventListener('click', openSiteFeedbackModal);
-    }
-
-    const closeSiteFeedbackBtn = document.getElementById('close-site-feedback-modal');
-    if (closeSiteFeedbackBtn) {
-        closeSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
-    }
-
-    const cancelSiteFeedbackBtn = document.getElementById('btn-cancel-site-feedback');
-    if (cancelSiteFeedbackBtn) {
-        cancelSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
-    }
-
-    const siteFeedbackOverlay = document.getElementById('site-feedback-modal-overlay');
-    if (siteFeedbackOverlay) {
-        siteFeedbackOverlay.addEventListener('click', closeSiteFeedbackModal);
-    }
-
-    const siteFeedbackForm = document.getElementById('site-feedback-form');
-    if (siteFeedbackForm) {
-        siteFeedbackForm.addEventListener('submit', handleSiteFeedbackSubmit);
-    }
-
-    // Touch Swiping Gestures for Feedback Modal on Mobile
-    const feedbackModal = document.getElementById('feedback-modal');
-    const feedbackDragHandle = feedbackModal ? feedbackModal.querySelector('.drawer-drag-handle') : null;
-    const feedbackHeader = feedbackModal ? feedbackModal.querySelector('.modal-header') : null;
-
-    let feedbackStartY = 0;
-    let feedbackCurrentY = 0;
-    let feedbackIsDragging = false;
-
-    const handleFeedbackTouchStart = (e) => {
-        // If the user touched a button or interactive element inside the header, ignore dragging
-        if (e.target.closest('button') || e.target.closest('.modal-close-btn')) {
-            feedbackIsDragging = false;
-            return;
-        }
-        feedbackStartY = e.touches[0].clientY;
-        feedbackCurrentY = feedbackStartY;
-        feedbackIsDragging = true;
-    };
-
-    const handleFeedbackTouchMove = (e) => {
-        if (!feedbackIsDragging) return;
-        feedbackCurrentY = e.touches[0].clientY;
-    };
-
-    const handleFeedbackTouchEnd = () => {
-        if (!feedbackIsDragging) return;
-        feedbackIsDragging = false;
-        const diffY = feedbackStartY - feedbackCurrentY; // Swipe up is positive, swipe down is negative
-
-        // Swipe DOWN -> close feedback modal
-        if (diffY < -60) {
-            closeFeedbackModal();
-        }
-    };
-
-    if (feedbackDragHandle) {
-        feedbackDragHandle.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
-        feedbackDragHandle.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
-        feedbackDragHandle.addEventListener('touchend', handleFeedbackTouchEnd);
-    }
-
-    if (feedbackHeader) {
-        feedbackHeader.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
-        feedbackHeader.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
-        feedbackHeader.addEventListener('touchend', handleFeedbackTouchEnd);
-    }
-
-    // ESC key closes feedback modal
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
-            const modal = document.getElementById('feedback-modal');
-            if (modal && modal.classList.contains('active')) {
-                closeFeedbackModal();
-            }
-        }
-    });
+    setupFeedbackEvents();
 
 }
 
@@ -2449,6 +2145,5 @@ function showToast(msg, duration = 3000) {
 
 
 
-document.addEventListener('click', handleHomeFeedbackLinkClick);
 // Start the app
 init();

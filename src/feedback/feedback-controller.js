@@ -8,7 +8,7 @@ export function createFeedbackController({ getLocationContext, showToast }) {
     function openFeedbackModal(restaurant) {
         if (!restaurant) return;
         trackEvent('open_feedback_modal', { restaurant_name: restaurant.name });
-        
+
         const modalOverlay = document.getElementById('feedback-modal-overlay');
         const modal = document.getElementById('feedback-modal');
         const nameInput = document.getElementById('feedback-restaurant-name');
@@ -129,11 +129,11 @@ export function createFeedbackController({ getLocationContext, showToast }) {
 
             issueGrid.innerHTML = gridHtml;
         }
-        
+
         // Clear form text inputs
         if (descriptionTextarea) descriptionTextarea.value = '';
         if (emailInput) emailInput.value = '';
-        
+
         // Show Modal
         if (modalOverlay) modalOverlay.classList.add('active');
         if (modal) modal.classList.add('active');
@@ -200,10 +200,10 @@ export function createFeedbackController({ getLocationContext, showToast }) {
     function closeFeedbackModal() {
         const modalOverlay = document.getElementById('feedback-modal-overlay');
         const modal = document.getElementById('feedback-modal');
-        
+
         if (modalOverlay) modalOverlay.classList.remove('active');
         if (modal) modal.classList.remove('active');
-        
+
         // Restore scrolling only if detail view is NOT active
         if (state.view !== 'detail') {
             document.body.style.overflow = '';
@@ -329,16 +329,16 @@ export function createFeedbackController({ getLocationContext, showToast }) {
 
     async function handleFeedbackSubmit(e) {
         e.preventDefault();
-        
+
         const submitBtn = document.getElementById('btn-submit-feedback');
         const originalBtnText = submitBtn ? submitBtn.innerHTML : '提交回報';
-        
+
         // Collect checked issues
         const checkedIssues = [];
         document.querySelectorAll('.feedback-issue-cb:checked').forEach(cb => {
             checkedIssues.push(cb.value);
         });
-        
+
         const description = document.getElementById('feedback-description').value.trim();
         const email = document.getElementById('feedback-email').value.trim();
         const restaurantName = document.getElementById('feedback-restaurant-name').value.trim();
@@ -470,14 +470,119 @@ export function createFeedbackController({ getLocationContext, showToast }) {
         }
     }
 
+    function setupFeedbackEvents() {
+        document.addEventListener('click', handleHomeFeedbackLinkClick);
+
+        // Feedback Modal Close & Cancel Actions
+        const closeFeedbackBtn = document.getElementById('close-feedback-modal');
+        if (closeFeedbackBtn) {
+            closeFeedbackBtn.addEventListener('click', closeFeedbackModal);
+        }
+
+        const cancelFeedbackBtn = document.getElementById('btn-cancel-feedback');
+        if (cancelFeedbackBtn) {
+            cancelFeedbackBtn.addEventListener('click', closeFeedbackModal);
+        }
+
+        const feedbackOverlay = document.getElementById('feedback-modal-overlay');
+        if (feedbackOverlay) {
+            feedbackOverlay.addEventListener('click', closeFeedbackModal);
+        }
+
+        // Feedback Form Submit Action
+        const feedbackForm = document.getElementById('feedback-form');
+        if (feedbackForm) {
+            feedbackForm.addEventListener('submit', handleFeedbackSubmit);
+        }
+
+        const siteFeedbackBtn = document.getElementById('float-site-feedback');
+        if (siteFeedbackBtn) {
+            siteFeedbackBtn.addEventListener('click', openSiteFeedbackModal);
+        }
+
+        const closeSiteFeedbackBtn = document.getElementById('close-site-feedback-modal');
+        if (closeSiteFeedbackBtn) {
+            closeSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
+        }
+
+        const cancelSiteFeedbackBtn = document.getElementById('btn-cancel-site-feedback');
+        if (cancelSiteFeedbackBtn) {
+            cancelSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
+        }
+
+        const siteFeedbackOverlay = document.getElementById('site-feedback-modal-overlay');
+        if (siteFeedbackOverlay) {
+            siteFeedbackOverlay.addEventListener('click', closeSiteFeedbackModal);
+        }
+
+        const siteFeedbackForm = document.getElementById('site-feedback-form');
+        if (siteFeedbackForm) {
+            siteFeedbackForm.addEventListener('submit', handleSiteFeedbackSubmit);
+        }
+
+        // Touch Swiping Gestures for Feedback Modal on Mobile
+        const feedbackModal = document.getElementById('feedback-modal');
+        const feedbackDragHandle = feedbackModal ? feedbackModal.querySelector('.drawer-drag-handle') : null;
+        const feedbackHeader = feedbackModal ? feedbackModal.querySelector('.modal-header') : null;
+
+        let feedbackStartY = 0;
+        let feedbackCurrentY = 0;
+        let feedbackIsDragging = false;
+
+        const handleFeedbackTouchStart = (e) => {
+            // If the user touched a button or interactive element inside the header, ignore dragging
+            if (e.target.closest('button') || e.target.closest('.modal-close-btn')) {
+                feedbackIsDragging = false;
+                return;
+            }
+            feedbackStartY = e.touches[0].clientY;
+            feedbackCurrentY = feedbackStartY;
+            feedbackIsDragging = true;
+        };
+
+        const handleFeedbackTouchMove = (e) => {
+            if (!feedbackIsDragging) return;
+            feedbackCurrentY = e.touches[0].clientY;
+        };
+
+        const handleFeedbackTouchEnd = () => {
+            if (!feedbackIsDragging) return;
+            feedbackIsDragging = false;
+            const diffY = feedbackStartY - feedbackCurrentY; // Swipe up is positive, swipe down is negative
+
+            // Swipe DOWN -> close feedback modal
+            if (diffY < -60) {
+                closeFeedbackModal();
+            }
+        };
+
+        if (feedbackDragHandle) {
+            feedbackDragHandle.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
+            feedbackDragHandle.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
+            feedbackDragHandle.addEventListener('touchend', handleFeedbackTouchEnd);
+        }
+
+        if (feedbackHeader) {
+            feedbackHeader.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
+            feedbackHeader.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
+            feedbackHeader.addEventListener('touchend', handleFeedbackTouchEnd);
+        }
+
+        // ESC key closes feedback modal
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                const modal = document.getElementById('feedback-modal');
+                if (modal && modal.classList.contains('active')) {
+                    closeFeedbackModal();
+                }
+            }
+        });
+    }
+
+
     return {
-        closeFeedbackModal,
-        closeSiteFeedbackModal,
-        handleFeedbackSubmit,
-        handleHomeFeedbackLinkClick,
-        handleSiteFeedbackSubmit,
         openFeedbackModal,
-        openSiteFeedbackModal,
+        setupFeedbackEvents,
         submitAiFeedback,
     };
 }

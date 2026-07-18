@@ -9,7 +9,13 @@ import { calculateDistance, calculateTravelTimes } from "../search/distance.js";
 import { state } from "../state/app-state.js";
 import { safeLocal } from "../state/storage.js";
 
-export function createShortlistController({ getDynamicStatus, showToast, updateUrl }) {
+export function createShortlistController({
+    copyToClipboard,
+    getDynamicStatus,
+    getLocationContext,
+    showToast,
+    updateUrl,
+}) {
     function loadFavorites() {
         try {
             const stored = safeLocal.getItem('taipei_kids_restaurants_favorites');
@@ -157,7 +163,7 @@ export function createShortlistController({ getDynamicStatus, showToast, updateU
 
     function toggleFavorite(placeId, event) {
         const isNowFav = !state.favorites.has(placeId);
-        
+
         // Find restaurant name for logging
         const res = restaurantData.find(r => r.place_id === placeId);
         const resName = res ? res.name : '';
@@ -249,7 +255,7 @@ export function createShortlistController({ getDynamicStatus, showToast, updateU
                 const status = getDynamicStatus(res, state.filters);
                 const levelClass = status.class;
                 const displayLabel = status.label;
-                
+
                 // Build amenity text
                 const ams = [];
                 const attrs = res.attributes || {};
@@ -336,7 +342,7 @@ export function createShortlistController({ getDynamicStatus, showToast, updateU
 
             savedRestaurants.forEach(res => {
                 const attrs = res.attributes || {};
-                
+
                 const checkIcon = '<span class="check-icon">✓ 有</span>';
                 const checkLikelyIcon = '<span class="check-icon likely-icon" title="依公開地點資訊推估，尚未由店家或使用者明確確認，建議出發前再確認。">✓ 估</span>';
                 const crossIcon = '<span class="cross-icon">✗ 較小</span>';
@@ -407,13 +413,216 @@ export function createShortlistController({ getDynamicStatus, showToast, updateU
         syncComparisonExpandButton();
     }
 
+    function setupShortlistEvents() {
+        const shareShortlistBtn = document.getElementById('btn-share-shortlist');
+
+        // Shortlist Floating Button and Drawer Trigger
+        const floatShortlistBtn = document.getElementById('float-shortlist');
+        const closeShortlistDrawerBtn = document.getElementById('close-shortlist-drawer');
+        const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+        const shortlistDrawer = document.getElementById('shortlist-drawer');
+        const tabList = document.getElementById('tab-list');
+        const tabCompare = document.getElementById('tab-compare');
+        const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
+        const expandComparisonBtn = document.getElementById('btn-expand-comparison');
+        const comparisonModalOverlay = document.getElementById('comparison-modal-overlay');
+        const closeComparisonModalBtn = document.getElementById('close-comparison-modal');
+
+        if (floatShortlistBtn) {
+            floatShortlistBtn.addEventListener('click', () => {
+                shortlistDrawer.classList.add('active');
+                shortlistDrawerOverlay.classList.add('active');
+                renderShortlistDrawer();
+                syncComparisonExpandButton();
+            });
+        }
+
+        if (closeShortlistDrawerBtn) {
+            closeShortlistDrawerBtn.addEventListener('click', () => {
+                shortlistDrawer.classList.remove('active');
+                shortlistDrawerOverlay.classList.remove('active');
+                shortlistDrawer.classList.remove('full-height');
+                closeComparisonModal();
+            });
+        }
+
+        if (shortlistDrawerOverlay) {
+            shortlistDrawerOverlay.addEventListener('click', () => {
+                shortlistDrawer.classList.remove('active');
+                shortlistDrawerOverlay.classList.remove('active');
+                shortlistDrawer.classList.remove('full-height');
+                closeComparisonModal();
+            });
+        }
+
+        // Touch Swiping / Tap Gestures for Drawer Height on Mobile
+        const dragHandle = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-drag-handle') : null;
+        const drawerHeader = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-header') : null;
+
+        let startY = 0;
+        let currentY = 0;
+        let isDragging = false;
+
+        const handleTouchStart = (e) => {
+            // If the user touched a button or interactive element inside the header, ignore dragging
+            if (e.target.closest('button') || e.target.closest('.drawer-actions')) {
+                isDragging = false;
+                return;
+            }
+            startY = e.touches[0].clientY;
+            currentY = startY; // Reset currentY to startY to prevent stale values from previous gestures
+            isDragging = true;
+        };
+
+        const handleTouchMove = (e) => {
+            if (!isDragging) return;
+            currentY = e.touches[0].clientY;
+        };
+
+        const handleTouchEnd = () => {
+            if (!isDragging) return;
+            isDragging = false;
+            const diffY = startY - currentY; // Swipe up is positive
+
+            if (diffY > 60) {
+                // Swipe UP -> expand to full-height
+                shortlistDrawer.classList.add('full-height');
+            } else if (diffY < -60) {
+                // Swipe DOWN -> contract to regular height or close
+                if (shortlistDrawer.classList.contains('full-height')) {
+                    shortlistDrawer.classList.remove('full-height');
+                } else {
+                    shortlistDrawer.classList.remove('active');
+                    shortlistDrawerOverlay.classList.remove('active');
+                }
+            }
+        };
+
+        if (dragHandle) {
+            dragHandle.addEventListener('touchstart', handleTouchStart, { passive: true });
+            dragHandle.addEventListener('touchmove', handleTouchMove, { passive: true });
+            dragHandle.addEventListener('touchend', handleTouchEnd);
+            dragHandle.addEventListener('click', () => {
+                shortlistDrawer.classList.toggle('full-height');
+            });
+        }
+
+        if (drawerHeader) {
+            drawerHeader.addEventListener('touchstart', handleTouchStart, { passive: true });
+            drawerHeader.addEventListener('touchmove', handleTouchMove, { passive: true });
+            drawerHeader.addEventListener('touchend', handleTouchEnd);
+        }
+
+        if (tabList && tabCompare) {
+            tabList.addEventListener('click', () => {
+                tabList.classList.add('active');
+                tabCompare.classList.remove('active');
+                document.getElementById('shortlist-list-view').classList.add('active');
+                document.getElementById('shortlist-compare-view').classList.remove('active');
+                renderShortlistDrawer();
+                syncComparisonExpandButton();
+            });
+
+            tabCompare.addEventListener('click', () => {
+                tabCompare.classList.add('active');
+                tabList.classList.remove('active');
+                document.getElementById('shortlist-compare-view').classList.add('active');
+                document.getElementById('shortlist-list-view').classList.remove('active');
+                trackEvent('view_shortlist_compare', {
+                    shortlist_count: state.favorites.size
+                });
+                renderShortlistDrawer();
+                syncComparisonExpandButton();
+            });
+        }
+
+        if (expandComparisonBtn) {
+            expandComparisonBtn.addEventListener('click', openComparisonModal);
+        }
+
+        if (comparisonModalOverlay) {
+            comparisonModalOverlay.addEventListener('click', closeComparisonModal);
+        }
+
+        if (closeComparisonModalBtn) {
+            closeComparisonModalBtn.addEventListener('click', closeComparisonModal);
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeComparisonModal();
+        });
+
+        window.addEventListener('resize', syncComparisonExpandButton);
+
+        if (clearShortlistBtn) {
+            clearShortlistBtn.addEventListener('click', () => {
+                if (confirm('確定要清空口袋名單中的所有餐廳嗎？')) {
+                    state.favorites.clear();
+                    saveFavorites();
+                    updateShortlistUI();
+                    renderShortlistDrawer();
+                    // Also update any visible card favorite states
+                    document.querySelectorAll('.card-favorite-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                        btn.innerHTML = '🤍';
+                    });
+                    const detailFavBtn = document.getElementById('btn-detail-fav');
+                    if (detailFavBtn) {
+                        detailFavBtn.classList.remove('active');
+                        detailFavBtn.innerHTML = '🤍';
+                    }
+                    showToast('已清空口袋名單');
+                    updateUrl();
+                }
+            });
+        }
+
+        if (shareShortlistBtn) {
+            shareShortlistBtn.addEventListener('click', () => {
+                if (state.favorites.size === 0) return;
+                const favIds = Array.from(state.favorites).join(',');
+                const shareUrl = new URL(window.location.href.split('?')[0]);
+                shareUrl.searchParams.set('favs', favIds);
+
+                const shareText = `這是我精選的台北親子友善餐廳口袋名單，分享給你！`;
+                const fullContent = `${shareText}\n${shareUrl.toString()}`;
+                trackEvent('share_shortlist', {
+                    shortlist_count: state.favorites.size,
+                    location_context: getLocationContext()
+                });
+
+                if (navigator.share) {
+                    navigator.share({
+                        title: '我的台北親子餐廳口袋名單',
+                        text: shareText,
+                        url: shareUrl.toString()
+                    }).catch(err => {
+                        if (err.name !== 'AbortError') {
+                            copyToClipboard(fullContent, true);
+                            showToast('考慮清單連結已複製，快分享給好友吧！');
+                        }
+                    });
+                } else {
+                    copyToClipboard(fullContent, true);
+                    showToast('考慮清單連結已複製，快分享給好友吧！');
+                }
+            });
+        }
+
+        // Dynamic re-render on resize/orientationchange to toggle between portrait transposed table and landscape standard table
+        window.addEventListener('resize', () => {
+            const shortlistDrawer = document.getElementById('shortlist-drawer');
+            if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
+                renderShortlistDrawer();
+            }
+        });
+    }
+
     return {
-        closeComparisonModal,
         loadFavorites,
-        openComparisonModal,
         renderShortlistDrawer,
         saveFavorites,
-        syncComparisonExpandButton,
+        setupShortlistEvents,
         toggleFavorite,
         updateShortlistUI,
     };
