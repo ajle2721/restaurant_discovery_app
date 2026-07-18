@@ -65,9 +65,80 @@ is dominated by the embedded restaurant catalog. A later performance change can
 load the catalog as a separate JSON/data chunk; it should be measured before
 changing the current eager-loading behavior.
 
-## Current State
+## Continuation Plan
 
-This repository is currently a static root-level app:
+The first pass established build and ownership boundaries but intentionally left
+DOM-heavy controllers in `src/main.js`. Continue with small behavior-preserving
+commits on the `refactor` branch.
+
+### Phase 7: Extract Runtime Controllers
+
+Status: in progress.
+
+Extract controllers in this order because it follows increasing coupling:
+
+1. `src/feedback/feedback-controller.js`
+   - Own feedback and contribution modal state.
+   - Own Web3Forms request construction and submission.
+   - Receive toast and location-context callbacks from the app bootstrap.
+
+2. `src/shortlist/shortlist-controller.js`
+   - Own favorite persistence, drawer tabs, list rendering, and comparison UI.
+   - Receive restaurant status and display helpers as dependencies.
+
+3. `src/map/leaflet-map.js`
+   - Own Leaflet initialization, marker lifecycle, map bounds, and popup markup.
+   - Receive recommendation status and display-price callbacks as dependencies.
+
+Phase 7 acceptance criteria:
+
+- `src/main.js` is below 4,000 lines.
+- Feature modules do not import `src/main.js` or create circular imports.
+- Existing global handlers used by inline markup remain available through a
+  narrow compatibility layer.
+- Feedback, shortlist, full-city search, map markers, and detail navigation pass
+  desktop and mobile smoke tests.
+
+### Phase 8: Separate Search And Rendering
+
+Status: pending Phase 7.
+
+- Move autocomplete and geocoding to `src/search/`.
+- Move filter matching and personalized scoring to pure modules with tests.
+- Move restaurant card and detail templates to `src/restaurants/` after their
+  dependencies are explicit.
+- Keep URL synchronization and top-level event wiring in `src/main.js` until the
+  extracted modules no longer depend on implicit globals.
+
+Phase 8 acceptance criteria:
+
+- Pure filter/scoring behavior has fixture-based unit tests.
+- `src/main.js` primarily contains bootstrap, URL state, and cross-feature event
+  wiring.
+- Search results and recommendation ordering match the pre-extraction behavior.
+
+### Phase 9: Split The Catalog Payload
+
+Status: deferred until runtime extraction is stable.
+
+- Measure initial load and interaction timing before changing data loading.
+- Compare a separate compressed JSON request with a lazy JavaScript data chunk.
+- Preserve direct GitHub Pages hosting without adding a server dependency.
+- Add a visible loading/error state before making restaurant data asynchronous.
+
+Do not combine Phase 9 with controller extraction. Its rollback and performance
+characteristics are different from source-only modularization.
+
+## Commit Strategy
+
+- Keep the completed Phase 1-6 migration as the structural baseline commit.
+- Commit each Phase 7 controller only after unit/build/browser validation.
+- Commit Phase 8 by pure domain boundary rather than by arbitrary line ranges.
+- Do not push the `refactor` branch until it is reviewed locally.
+
+## Original State
+
+Before this refactor, the repository was a static root-level app:
 
 - `index.html` directly loads `locations.js`, `ai_review/index.js`, and `app.js`.
 - `style.css` is a single global stylesheet.
