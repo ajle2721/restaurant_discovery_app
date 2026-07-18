@@ -31,8 +31,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build production site
-        env:
-          VITE_BASE_PATH: /restaurant_discovery_app/
         run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v6
