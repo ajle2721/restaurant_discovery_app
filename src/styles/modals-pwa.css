@@ -8,7 +8,7 @@
     background: rgba(15, 23, 42, 0.5);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
-    z-index: 3000; /* Higher than shortlist drawer (2001) */
+    z-index: 6000; /* Higher than detail view (5000) and shortlist drawer */
     opacity: 0;
     visibility: hidden;
     transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
@@ -33,7 +33,7 @@
     border-radius: 2rem;
     border: 1px solid rgba(255, 255, 255, 0.4);
     box-shadow: 0 25px 50px -12px rgba(15, 23, 42, 0.25);
-    z-index: 3001;
+    z-index: 6001;
     display: flex;
     flex-direction: column;
     opacity: 0;
@@ -867,4 +867,3 @@
         font-size: 0.9rem;
     }
 }
-
