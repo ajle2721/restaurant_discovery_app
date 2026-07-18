@@ -9,6 +9,7 @@ GOOGLE_MAP_KEY
 response/*.json
 
 # Local backup / scratch artifacts
+/local/
 dist/
 src/data/restaurant-index.js
 crawler/*
