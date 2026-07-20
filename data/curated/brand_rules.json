@@ -4303,9 +4303,9 @@
             "confidence": 1
         },
         "has_play_area": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【咖啡瑪榭】統一設定",
-            "confidence": 0.9
+            "result": "No",
+            "evidence": "使用者查證：咖啡瑪榭沒有兒童遊樂區",
+            "confidence": 1
         }
     },
     "DREAMERS COFFEE ROASTERS": {
