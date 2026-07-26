@@ -292,7 +292,9 @@ export function createRestaurantDetailController({
         }
     
         const isWholeCity = !isSpecificRestaurant && state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
-        const times = (!isWholeCity && dist !== undefined) ? calculateTravelTimes(dist) : null;
+        const times = (!isSpecificRestaurant && !isWholeCity && dist !== undefined)
+            ? calculateTravelTimes(dist)
+            : null;
         let timeHtml = '';
         if (times) {
             timeHtml = `
