@@ -2296,6 +2296,10 @@ function writeIndex(records) {
       row[10] = appendKidsMenuSummary(row[10], row[0]);
       row[11] = appendKidsMenuSummary(row[11], row[0]);
     }
+    if (row[0] === "ChIJE6didaGtQjQR1fFRaq4lQdE") {
+      row[10] = String(row[10] || "").replaceAll("Me y Play", "Messy Play");
+      row[11] = String(row[11] || "").replaceAll("Me y Play", "Messy Play");
+    }
     return row.slice(0, columns.length);
   });
   const serializedRows = JSON.stringify(normalizedRecords).replaceAll("意大利", "義大利");
